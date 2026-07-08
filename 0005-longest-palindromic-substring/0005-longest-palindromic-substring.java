@@ -2,12 +2,13 @@ class Solution {
     public String longestPalindrome(String s) {
         int n=s.length();
         int [][] dp = new int[n][n];
-        int count=n;
+        
         int maxLen=0;
+        int startIdx=0;
 
-        while(count >0 ){
+        for(int count=1; count<=n ; count++){
             int i=0;
-            int j= n-count;
+            int j= count-1;
 
             while(j<n){
                 if(i==j) dp[i][j]=1;
@@ -18,31 +19,17 @@ class Solution {
                     }
                 }
 
-                maxLen=Math.max(maxLen, dp[i][j]);
-                i++;
-                j++;
-            }
-            
-            count--;
-        }
-
-        count=n;
-    
-        while(count >0 ){
-            int i=0;
-            int j= n-count;
-
-            while(j<n){
-                if(dp[i][j]==maxLen){
-                    return s.substring(i, j+1);
+                if(dp[i][j] >  maxLen){
+                    startIdx= i;
+                    maxLen=dp[i][j];
                 }
                 i++;
                 j++;
             }
             
-            count--;
         }
+        
 
-        return "";
+        return s.substring(startIdx, startIdx+maxLen);
     }
 }
