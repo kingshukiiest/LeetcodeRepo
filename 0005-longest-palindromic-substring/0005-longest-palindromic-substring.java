@@ -25,21 +25,24 @@ class Solution {
             
             count--;
         }
-        System.out.print(maxLen+" ");
-        int x=0; int y=0;
-        boolean flag=false;
-        for( int i=0; i<n ;i++){
-            for( int j=0; j<n ; j++){
+
+        count=n;
+    
+        while(count >0 ){
+            int i=0;
+            int j= n-count;
+
+            while(j<n){
                 if(dp[i][j]==maxLen){
-                    x=i;
-                    y=j;
-                    flag=true;
-                    break;
+                    return s.substring(i, j+1);
                 }
+                i++;
+                j++;
             }
-            if(flag) break;
+            
+            count--;
         }
 
-        return s.substring(x,y+1);
+        return "";
     }
 }
