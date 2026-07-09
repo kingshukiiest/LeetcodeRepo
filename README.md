@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+| [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
