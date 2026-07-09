@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -68,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
