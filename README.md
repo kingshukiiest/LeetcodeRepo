@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 ## Binary Search
@@ -34,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
