@@ -19,14 +19,38 @@ class Solution {
             }
         }
         Queue<Pair> q= new LinkedList<>();
-        for( int i=0; i<m ; i++){
-            for(int j=0; j<n ; j++){
-                if((i==0 ||j==0 || i==m-1 || j==n-1) && grid[i][j]=='T'){
-                    q.add(new Pair(i,j));
-                    grid[i][j]='O';
-                }
+
+        // for( int i=0; i<m ; i++){
+        //     for(int j=0; j<n ; j++){
+        //         if((i==0 ||j==0 || i==m-1 || j==n-1) && grid[i][j]=='T'){
+        //             q.add(new Pair(i,j));
+        //             grid[i][j]='O';
+        //         }
+        //     }
+        // }
+        //instead of full iteration
+        for(int i=0; i<m; i++){
+            if(grid[i][0]=='T'){
+                q.add(new Pair(i,0));
+                grid[i][0]='O';
+            }
+            if(grid[i][n-1]=='T'){
+                q.add(new Pair(i,n-1));
+                grid[i][n-1]='O';
             }
         }
+        for(int j=0; j<n; j++){
+            if(grid[0][j]=='T'){
+                q.add(new Pair(0,j));
+                grid[0][j]='O';
+            }
+            if(grid[m-1][j]=='T'){
+                q.add(new Pair(m-1,j));
+                grid[m-1][j]='O';
+            }
+        }
+        
+
         int [][] dir= {{0,1},{1,0},{-1,0},{0,-1}};
         while(q.size()>0){
             Pair front= q.poll();
