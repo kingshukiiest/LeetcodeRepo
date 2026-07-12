@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2685-count-the-number-of-complete-components) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [2685-count-the-number-of-complete-components](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2685-count-the-number-of-complete-components) |
@@ -118,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->
