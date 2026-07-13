@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
