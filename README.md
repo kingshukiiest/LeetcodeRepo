@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0155-min-stack) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
