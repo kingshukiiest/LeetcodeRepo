@@ -1,13 +1,13 @@
 class Solution {
-    public int largestRectangleArea(int[][] arr, int row) {
-        int n=arr[0].length;
+    public int largestRectangleArea(int[] arr) {
+        int n=arr.length;
         int [] nse= new int[n];
         int [] pse= new int[n];
         //marking idx
         Stack<Integer> st= new Stack<>();
         //nse
         for(int i=n-1; i>=0; i--){
-            while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
+            while(st.size()>0 && arr[st.peek()]>=arr[i]){
                 st.pop();
             }
             if(st.size()==0) nse[i]=n;
@@ -19,7 +19,7 @@ class Solution {
         while(st.size()>0) st.pop();
         //pse
         for(int i=0; i<n; i++){
-            while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
+            while(st.size()>0 && arr[st.peek()]>=arr[i]){
                 st.pop();
             }
             if(st.size()==0) pse[i]=-1;
@@ -33,12 +33,11 @@ class Solution {
         int width=0;
         for(int i=0; i<n ; i++){
             width=nse[i]-pse[i]-1;
-            area=width*arr[row][i];
+            area=width*arr[i];
             maxArea=Math.max(maxArea,area);
         }
         return maxArea;
     }
-
     public int maximalRectangle(char[][] matrix) {
 
         int m=matrix.length;
@@ -55,17 +54,16 @@ class Solution {
                 }
             }
         }
-        for( int i=0; i<m ;i++){
-            for( int j=0; j<n ; j++){
-               System.out.print(arr[i][j]+" ");
-            }
-            System.out.println();
-        }
-
+        // for( int i=0; i<m ;i++){
+        //     for( int j=0; j<n ; j++){
+        //        System.out.print(arr[i][j]+" ");
+        //     }
+        //     System.out.println();
+        // }
+        //BROHHHHHH YOU MISSED THIS 
         int maxArea=0;
-
-        for( int row=0; row<m ; row++){
-            maxArea=Math.max(maxArea,largestRectangleArea(arr,row));
+        for( int [] row : arr){
+            maxArea=Math.max(maxArea,largestRectangleArea(row));
         }
         return maxArea;
     }
