@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
