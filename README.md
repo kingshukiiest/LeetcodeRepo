@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
@@ -149,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
