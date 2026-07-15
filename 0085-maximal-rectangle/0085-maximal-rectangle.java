@@ -1,4 +1,44 @@
 class Solution {
+    public int largestRectangleArea(int[][] arr, int row) {
+        int n=arr[0].length;
+        int [] nse= new int[n];
+        int [] pse= new int[n];
+        //marking idx
+        Stack<Integer> st= new Stack<>();
+        //nse
+        for(int i=n-1; i>=0; i--){
+            while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
+                st.pop();
+            }
+            if(st.size()==0) nse[i]=n;
+            else{
+                nse[i]=st.peek();
+            }
+            st.push(i);
+        }
+        while(st.size()>0) st.pop();
+        //pse
+        for(int i=0; i<n; i++){
+            while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
+                st.pop();
+            }
+            if(st.size()==0) pse[i]=-1;
+            else{
+                pse[i]=st.peek();
+            }
+            st.push(i);
+        }
+        int maxArea=0;
+        int area=0;
+        int width=0;
+        for(int i=0; i<n ; i++){
+            width=nse[i]-pse[i]-1;
+            area=width*arr[row][i];
+            maxArea=Math.max(maxArea,area);
+        }
+        return maxArea;
+    }
+
     public int maximalRectangle(char[][] matrix) {
 
         int m=matrix.length;
@@ -11,7 +51,6 @@ class Solution {
             for( int i=1; i<m ; i++){
                 if(matrix[i][j]!='0'){
                     int prev=arr[i-1][j];
-
                     arr[i][j]= (prev+ matrix[i][j]-48);
                 }
             }
@@ -22,47 +61,12 @@ class Solution {
             }
             System.out.println();
         }
+
         int maxArea=0;
-        int [] nse= new int[n];
-        int [] pse= new int[n];
 
         for( int row=0; row<m ; row++){
-            
-            //marking idx
-            Stack<Integer> st= new Stack<>();
-            //nse
-            for(int i=n-1; i>=0; i--){
-                while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
-                    st.pop();
-                }
-                if(st.size()==0) nse[i]=n;
-                else{
-                    nse[i]=st.peek();
-                }
-                st.push(i);
-            }
-            while(st.size()>0) st.pop();
-            //pse
-            for(int i=0; i<n; i++){
-                while(st.size()>0 && arr[row][st.peek()]>=arr[row][i]){
-                    st.pop();
-                }
-                if(st.size()==0) pse[i]=-1;
-                else{
-                    pse[i]=st.peek();
-                }
-                st.push(i);
-            }
-        
-            int area=0;
-            int width=0;
-            for(int i=0; i<n ; i++){
-                width=nse[i]-pse[i]-1;
-                area=width*arr[row][i];
-                maxArea=Math.max(maxArea,area);
-            }
+            maxArea=Math.max(maxArea,largestRectangleArea(arr,row));
         }
-
         return maxArea;
     }
     
