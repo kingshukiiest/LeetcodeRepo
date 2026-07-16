@@ -1,46 +1,54 @@
 class Solution {
-    public boolean bfs(int[][] graph, int [] visited, int i){
-        Queue<Integer> q= new LinkedList<>();
-        q.add(i);
-        visited[i]=1;
-
-        while(q.size()>0){
-            int front= q.poll();
-            int bit= visited[front];
-
-            for( int elem : graph[front]){
-                // not visited -> mark with reverse bit
-                // visited -> same bit -> return false
-                // visited -> reverse bit-> okay
-                if(visited[elem]==0){
-                    if((bit&1)==1){
-                        visited[elem]=2;
-                    }
-                    else{
-                        visited[elem]=1;
-                    }
-                    q.add(elem);
-                }
-                else if(visited[elem]==bit){
-                    return false;
-                }
+    int [] parent;
+    int [] size ; 
+    int [] parity;
+    public int find(int a){
+        if(parent[a]==a) return a;
+        return parent[a]=find(parent[a]);
+    }
+    public void union(int a , int b){
+        int u=find(a);
+        int v=find(b);
+        if(u!=v){
+            if(size[u]> size[v]){
+                parent[v]=u;
+                size[u]+=size[v];
+                parity[b]=(parity[a]^1);
+            }
+            else{
+                parent[u]=v;
+                size[v]+=size[u];
+                parity[a]=(parity[b]^1);
             }
         }
-        return true;
     }
     public boolean isBipartite(int[][] graph) {
-        int n=graph.length;
-        int [] visited= new int [n];
+        int n= graph.length;
 
-        // return bfs(graph, visited, 0);
-        // can be multiple component , so .
+        size= new int[n];
+        parent= new int[n];
+        parity= new int[n];
+        for( int i=0; i<n ; i++){
+            parent[i]=i;
+            size[i]=1;
+            parity[i]=0;
+        }
 
         for( int i=0; i<n ; i++){
-            if(visited[i]==0){
-                boolean flag = bfs(graph, visited, i);
-                if(!flag) return false;
+            int [] adj = graph[i];
+            for(int node : adj){
+                int u=i;
+                int v=node;
+                if(v > u){
+                    if(find(u)!=find(v)){
+                        union(u,v);
+                    }
+                    else{
+                        if(parity[u]==parity[v]) return false;
+                    }
+                }
             }
         }
         return true;
-    }
+    } 
 }
