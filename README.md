@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
