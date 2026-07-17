@@ -35,6 +35,7 @@ class Solution {
             int c=front.c;
             int time=front.time;
 
+            if(r==n-1 && c==n-1) return time;
             //dSpecial
             if(time >minTime[r][c]) continue;
 
