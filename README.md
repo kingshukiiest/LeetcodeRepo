@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
