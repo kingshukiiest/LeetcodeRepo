@@ -3,7 +3,9 @@ class Solution {
         @Override
         public int compare(Quad a, Quad b){
             // if()
-            return Integer.compare(b.chance,a.chance);
+            // return Integer.compare(b.chance,a.chance);
+        
+            return Integer.compare(a.steps,b.steps);
         }
     } 
     class Quad{
@@ -24,11 +26,13 @@ class Solution {
         
         PriorityQueue<Quad> pq= new PriorityQueue<>(new CompareSteps());
 
-        int[][] minSteps= new int[m][n];
-        for( int [] a : minSteps){
-            Arrays.fill(a,Integer.MAX_VALUE);
+        int[][][] minSteps= new int[m][n][k+1];
+        for( int [][] a : minSteps){
+            for( int []b : a){
+                Arrays.fill(b,Integer.MAX_VALUE);
+            }
         }
-        minSteps[0][0]=0;
+        minSteps[0][0][k]=0;
         pq.add(new Quad(0,0,0,k));
 
         int [][] dist={{0,1},{0,-1},{1,0},{-1,0}};
@@ -40,11 +44,11 @@ class Solution {
             int steps=front.steps;
             int chance=front.chance;
 
-            //Special
-            // if(r==m-1 && c==n-1) return steps;
+            // Special
+            if(r==m-1 && c==n-1) return steps;
             
             //dSpecial
-            if(steps >minSteps[r][c]) continue;
+            if(steps >minSteps[r][c][chance]) continue;
 
             for(int []row : dist){
                 int nr=r+row[0];
@@ -54,8 +58,8 @@ class Solution {
                     if(grid[nr][nc]==1 && chance==0) continue;
 
                     int totalSteps=steps+ 1;
-                    if(totalSteps < minSteps[nr][nc]){
-                        minSteps[nr][nc]=totalSteps;
+                    if(totalSteps < minSteps[nr][nc][chance]){
+                        minSteps[nr][nc][chance]=totalSteps;
                         if(grid[nr][nc]==1) {
                             pq.add(new Quad(nr,nc,totalSteps, chance-1));
                         }
@@ -66,7 +70,6 @@ class Solution {
                 }
             }
         }   
-        return( minSteps[m-1][n-1]==Integer.MAX_VALUE)
-                    ? -1 :minSteps[m-1][n-1] ;
+        return -1;
     }
 }
