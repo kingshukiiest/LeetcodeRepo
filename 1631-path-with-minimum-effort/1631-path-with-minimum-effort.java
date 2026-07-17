@@ -36,7 +36,7 @@ class Solution {
             int c=front.c;
             int effort=front.effort;
 
-            // if(r==m-1 && c==n-1) return effort;
+            if(r==m-1 && c==n-1) return effort;
             
             //dSpecial
             if(effort >minEffort[r][c]) continue;
