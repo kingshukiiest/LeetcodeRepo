@@ -21,16 +21,20 @@ class Solution {
         for( int i=0; i<m ; i++){
             for( int j=0; j<n ; j++){
                 int elem=grid[i][j];
-                int cr=i; //0
-                int cc=j; //2
+                int cr=i;
+                int cc=j; 
 
-                cc = cc+ (k%n); //2+1=3
+                cc = cc+ (k%n);
                 cr= cr+ (k/n);
-                
                 if(cc>=n) cr++;
                 cc= cc%n;
-
+                
                 cr= cr%m;
+
+            // int idx=(i*n)+j;
+            // int new_idx=(idx+k)%size;
+            // int nr= (new_idx)/n;
+            // int nc=(new_idx)%n;
 
                 ans[cr][cc]=grid[i][j];
             }
