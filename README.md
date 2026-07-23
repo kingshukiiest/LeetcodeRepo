@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
+| [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
