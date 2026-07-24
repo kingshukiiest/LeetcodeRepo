@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
+| [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
+| [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
