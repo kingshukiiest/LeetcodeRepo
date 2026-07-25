@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
