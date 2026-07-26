@@ -1,28 +1,22 @@
 class Solution {
-    public int sum(int n){
-        int sum=0;
-        while(n!=0){
-            int ld = n%10;
-            sum+= ld ;
-            n= n/10;
-        }
-        return sum;
-    }
     public int largestInteger(int n, int s) {
-        int store=-1;
-        int end=-1;
-        if(n==1)  end=9;
-        else if (n==2) end=99;
-        else if (n==3) end=999;
-        else if (n==4) end= 9999;
-        else if (n==5) end= 99999;
+        if(s > 9*n) return -1;
 
-        for(int num=0; num<=end; num++){
-            if(sum(num)==s){
-                store=num;
-            }
-        }
-        return store;
+        int ans=0;
         
+        for( int i=1; i<=n; i++){
+            // if(s>=9){
+            //     ans = ans*10 +9;
+            //     s-=9;
+            // }
+            // else{
+            //     ans= ans*10+ s;
+            //     s-=s;
+            // }
+            int digit= Math.min(s, 9);
+            ans= ans*10 + digit;
+            s= s- digit;
+        }
+        return ans;
     }
 }
