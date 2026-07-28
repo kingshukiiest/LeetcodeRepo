@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0279-perfect-squares) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
