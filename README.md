@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
