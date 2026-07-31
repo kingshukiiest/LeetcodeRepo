@@ -1,39 +1,24 @@
 class Solution {
-    class Pair{
-        char ch ;
-        int freq;
-        Pair(char ch , int freq){
-            this.ch= ch;
-            this.freq= freq;
-        }
-    }
     public int minimumPushes(String word) {
         int n=word.length();
-        int count=0;
+        int ans=0;
         int x=1;
-
-        HashMap<Character, Integer> map= new HashMap<>();
+        int c=0;
+        int [] freq= new int[26];
         for(char ch : word.toCharArray()){
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            freq[ch-'a']++;
         }
+        Arrays.sort(freq);
+        for(int i=25; i>=0; i--){
+            if(freq[i]==0) break;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a,b)->Integer.compare(b.freq,a.freq) );
-        
-        for(char ch : map.keySet()){
-            pq.add(new Pair(ch, map.get(ch)));
-        }
-
-        while(pq.size()!=0){
-            int grp=Math.min(pq.size(),8);
-
-            while(grp-- > 0){
-                Pair top= pq.poll();
-                int freq=top.freq;
-                count+= (x*freq);
+            ans+=(freq[i]*x);
+            c++;
+            if(c==8){
+                c=0;
+                x++;
             }
-            x++;
         }
-        return count;
+        return ans;
     }
 }
