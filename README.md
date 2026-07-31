@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
