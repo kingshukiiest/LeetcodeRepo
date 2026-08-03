@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -268,12 +271,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
