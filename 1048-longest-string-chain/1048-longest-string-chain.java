@@ -1,4 +1,22 @@
 class Solution {
+    public boolean isPredecessor(String curr, String prev){
+
+        if(prev.length()+1==curr.length()){
+            int i=0; // curr
+            int j=0; // prev
+            while(i<curr.length() && j<prev.length()){
+                if(curr.charAt(i)==prev.charAt(j)){
+                    j++;
+                    i++;
+                }
+                else{
+                    i++;
+                }
+            }
+            return(j==prev.length());
+        }
+        return false;
+    }
     public int longestStrChain(String[] word) {
         int n=word.length;
         int maxLength=0;
@@ -7,27 +25,14 @@ class Solution {
 
         for(int i=0; i<n ; i++){
             int max=0;
-            String s1=word[i];
+            String curr=word[i];
             for(int j=0; j<i ; j++){
                 if(j==i) continue;
                 
-                String s2=word[j]; // should be one length smaller
-        
-                if(s2.length()==s1.length()-1){
-                    int a=0; // for s2
-                    int b=0;// for s1
-                    while(b<s1.length() && a<s2.length()){
-                        if(s1.charAt(b)==s2.charAt(a)){
-                            a++;
-                            b++;
-                        }
-                        else{
-                            b++;
-                        }
-                    }
-                    if(a==s2.length()){
-                        max=Math.max(max,dp[j]);
-                    }
+                String prev=word[j]; // should be one length smaller
+
+                if(isPredecessor(curr,prev)){
+                    max=Math.max(max,dp[j]);
                 }
             }
             dp[i]=max+1;
