@@ -1,26 +1,20 @@
 class Solution {
-    Boolean [][] dp;
-    public boolean solve(int turn, int n){
+    Boolean [] dp;
+    public boolean solve( int n){
         if(n<1) return false;
 
-        if(dp[turn][n]!=null) return dp[turn][n];
-        if(turn==1){
-            for(int i=1; i*i<=n; i++){
+        if(dp[n]!=null) return dp[n];
+        
+        for(int i=1; i*i<=n; i++){
 
-                if(!solve(turn^1,n- (i*i))) return dp[turn][n]=true;
-            }
-            return dp[turn][n]=false;
+            if(!solve(n- (i*i))) return dp[n]=true;
         }
-        else{
-            for(int i=1; i*i<=n; i++){
-                
-                if(!solve(turn^1, n- (i*i))) return dp[turn][n]=true;
-            }
-            return dp[turn][n]=false;
-        }
+        return dp[n]=false;
+        
+    
     }
     public boolean winnerSquareGame(int n) {
-        dp = new Boolean [2][n+1];
-        return solve(1,n);
+        dp = new Boolean [n+1];
+        return solve(n);
     }
 }
