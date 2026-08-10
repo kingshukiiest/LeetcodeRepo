@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Array
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -297,17 +300,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
