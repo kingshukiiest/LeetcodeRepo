@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -338,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1510-stone-game-iv) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
