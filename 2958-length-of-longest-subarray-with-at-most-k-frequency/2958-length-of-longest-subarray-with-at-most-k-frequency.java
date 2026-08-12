@@ -10,26 +10,31 @@ class Solution {
             if(map.get(elem)>k){
                 maxLen=Math.max(maxLen,j-i);
 
-                while(i<n && nums[i]!=elem){
+                while(map.get(elem)>k){
                     int freq=map.get(nums[i]);
+        
                     if(freq==1) map.remove(nums[i]);
                     else{
                         map.put(nums[i],freq-1);
                     }
                     i++;
-                }
-                
-                int freq=map.get(nums[i]);
-                if(freq==1) map.remove(nums[i]);
-                else{
-                    map.put(nums[i],freq-1);
-                }
-                i++;// once more 
-                
+                }     
             }
             j++;
         }
         maxLen=Math.max(maxLen,j-i);
+        // for(int i=0; i<n ; i++){
+        //     for(int j=i; j<n ; j++){
+        //         map.put(nums[j], map.getOrDefault(nums[j],0)+1);
+            
+        //         if(map.get(nums[j]) > k){
+        //             break;
+        //         }
+        //         maxLen=Math.max(maxLen,j-i+1);
+        //     }
+        //     map.clear();
+        // }
+        
         return maxLen;
     }
 }
