@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
