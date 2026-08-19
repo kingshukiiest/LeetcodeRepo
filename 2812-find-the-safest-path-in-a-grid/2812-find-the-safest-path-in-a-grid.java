@@ -76,7 +76,7 @@ class Solution {
         }
 
         int low=0;
-        int high=m+n;
+        int high = m+n-2;
         int store=0;
         while(low<=high){
             int mid=low+(high-low)/2;
