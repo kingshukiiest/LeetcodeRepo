@@ -17,7 +17,7 @@ class Solution {
         if(grid[0][0]!=0) return -1;
 
         Queue<Triplet> q = new LinkedList<>();
-        int count=Integer.MAX_VALUE;
+        
         boolean[][] visited= new boolean[m][n];
         q.add(new Triplet(0,0,1));
         visited[0][0]=true;
@@ -30,8 +30,7 @@ class Solution {
             int c=front.c;
             int dist=front.dist;
             if(r==m-1 && c==n-1) {
-                flag=true;
-                count=Math.min(count,dist);
+                return dist;
             }
 
             for(int [] a : dir){
@@ -43,6 +42,6 @@ class Solution {
                 }
             }
         }
-        return (flag == true)?count : -1;
+        return -1;
     }
 }
