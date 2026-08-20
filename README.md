@@ -407,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
