@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0132-palindrome-partitioning-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0132-palindrome-partitioning-ii) |
@@ -335,12 +337,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
