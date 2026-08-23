@@ -18,21 +18,16 @@ class Solution {
 
     public int longestSubarray(int[] nums, int k) {
         int n=nums.length;
-        // int []countPrime=new int[n];
-        List<List<Integer>> ans= new ArrayList<>();
-        for(int i=0; i<n;i++){
-            ans.add(countDistinctPrime(nums[i]));
-        }
-
-
+    
         int i=0;
         int j=0;
-        // int distinct=0;
         int maxLen=0;
         HashMap<Integer,Integer> map = new HashMap<>();
-        
+    
         while(j<n){
-            for(int elem : ans.get(j)){
+            List<Integer> list= countDistinctPrime(nums[j]);
+            
+            for(int elem : list){
                 map.put(elem, map.getOrDefault(elem,0)+1);
             }
         
@@ -41,7 +36,8 @@ class Solution {
             }
             else{
                 while(map.size()>k){
-                    for(int elem : ans.get(i)){
+                    List<Integer> left= countDistinctPrime(nums[i]);
+                    for(int elem : left ){
                         int freq=map.get(elem);
                         if(freq==1){
                             map.remove(elem);
