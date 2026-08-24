@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
@@ -429,4 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
