@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
