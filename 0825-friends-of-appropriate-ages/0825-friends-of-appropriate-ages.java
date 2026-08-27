@@ -36,10 +36,10 @@ class Solution {
         for(int i=1; i<=120; i++){
             if(count[i]==0) continue;
 
-            for(int j=1;j<=120; j++){
+            for(int j=1;j<=i; j++){
                 if(count[j]==0) continue;
 
-                if(j>i) break;
+                // if(j>i) break;
 
                 if(j<= (0.5*i+7)) continue;
 
