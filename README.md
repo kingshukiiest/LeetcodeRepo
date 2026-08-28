@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 ## Dijkstra's Algorithm
 |  |
