@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 ## Dijkstra's Algorithm
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
