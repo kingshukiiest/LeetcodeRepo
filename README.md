@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
