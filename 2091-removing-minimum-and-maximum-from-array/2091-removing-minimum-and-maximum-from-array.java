@@ -17,44 +17,30 @@ class Solution {
             }
         }
         
-        // if(minIndex<=(n/2) && maxIndex<=(n/2)){
-        //     int index=Math.max(minIndex,maxIndex);
-        //     return index+1;
-        // }
-        // else if(minIndex>(n/2) && maxIndex>(n/2)){
-        //     int index=Math.min(minIndex,maxIndex);
-        //     return n-index;
-        // }
-        // else{
-        //     int ans=0;
-        //     if(minIndex<=(n/2)){
-        //         ans+=(minIndex+1);
-        //     }
-        //     else{
-        //         ans+=(n-minIndex);
-        //     }
+        
+        // int ans=0;
+        // int index=Math.max(minIndex,maxIndex);
+        // ans=index+1;
 
-        //     if(maxIndex<=n/2){
-        //         ans+=(maxIndex+1);
-        //     }
-        //     else{
-        //         ans+=(n-maxIndex);
-        //     }
+        
+        // index=Math.min(minIndex,maxIndex);
+        // ans=Math.min(ans,n-index);
 
-        //     return ans;
-        // }
-        //remove from left
+        // //remove one from left , on from right
+        // ans=Math.min(ans,(minIndex+1)+(n-maxIndex));
+        // ans=Math.min(ans,(maxIndex+1)+(n-minIndex));
         int ans=0;
-        int index=Math.max(minIndex,maxIndex);
-        ans=index+1;
+        int left=Math.min(minIndex,maxIndex);
+        int right=Math.max(minIndex,maxIndex);
+
+        //remove from left
+        ans=right+1;
 
         //remove from right
-        index=Math.min(minIndex,maxIndex);
-        ans=Math.min(ans,n-index);
+        ans=Math.min(ans,n-left);
 
-        //remove one from left , on from right
-        ans=Math.min(ans,(minIndex+1)+(n-maxIndex));
-        ans=Math.min(ans,(maxIndex+1)+(n-minIndex));
+
+        ans=Math.min(ans,(left+1)+(n-right));
 
         return ans;
     }
