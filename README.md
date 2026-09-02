@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1872-stone-game-viii) |
 ## Nim Game
