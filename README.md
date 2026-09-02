@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Binary Search
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
