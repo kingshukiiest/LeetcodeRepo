@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
+| [1529-minimum-suffix-flips](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1529-minimum-suffix-flips) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
+| [1529-minimum-suffix-flips](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1529-minimum-suffix-flips) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
