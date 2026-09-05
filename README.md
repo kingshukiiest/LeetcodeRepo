@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1757-recyclable-and-low-fat-products) |
