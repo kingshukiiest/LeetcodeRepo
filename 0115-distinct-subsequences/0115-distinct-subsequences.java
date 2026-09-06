@@ -19,11 +19,23 @@ class Solution {
         int m=s.length();
         int n=t.length();
 
-        dp= new int[m][n];
-        for(int [] a : dp){
-            Arrays.fill(a,-1);
+        dp= new int[m+1][n+1];
+        for(int i=0; i<m+1;i++){
+            dp[i][0]=1;
         }
+        for(int j=1; j<n+1;j++){
+            dp[0][j]=0;
+        }
+        for(int i=1; i<=m ; i++){
+            for(int j=1; j<=n ; j++){
+                dp[i][j]=dp[i-1][j];
 
-        return solve(s,t,m-1,n-1);
+                if(s.charAt(i-1)==t.charAt(j-1)){
+                    dp[i][j]+=dp[i-1][j-1];
+                }
+            }
+        }
+        return dp[m][n];
+        
     }
 }
