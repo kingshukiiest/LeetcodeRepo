@@ -1,22 +1,29 @@
 class Solution {
-    int []space;
+    int [][]dp;
+    public int solve(String s, String t, int i, int j){
+        if(j<0) return 1;
+        if(i<0) return 0;
 
-    public int numDistinct(String s, String t) {
-        int m =s.length();
-        int n =t.length();
-        space= new int[n+1];
-        space[0]=1;
-        for(int i=1; i<=m ; i++){
-            
-             // if i go left to write, diagonal elem will be overridden
-             // so go from right to left
-
-            for(int j=n; j>=1; j--){
-                if(s.charAt(i-1)==t.charAt(j-1)){
-                    space[j]+=space[j-1];// adding the diagonal elem actually
-                }
-            }
+        if(dp[i][j]!=-1) return dp[i][j];
+        //skip
+        int skip=solve(s,t,i-1,j);
+        //pick
+        int pick=0;
+        if(s.charAt(i)==t.charAt(j)){
+            pick=solve(s,t,i-1,j-1);
         }
-        return space[n];
+
+        return dp[i][j]=skip+pick;
+    }
+    public int numDistinct(String s, String t) {
+        int m=s.length();
+        int n=t.length();
+
+        dp= new int[m][n];
+        for(int [] a : dp){
+            Arrays.fill(a,-1);
+        }
+
+        return solve(s,t,m-1,n-1);
     }
 }
