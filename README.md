@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
