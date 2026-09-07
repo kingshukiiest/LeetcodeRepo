@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0081-search-in-rotated-sorted-array-ii) |
