@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0057-insert-interval) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0435-non-overlapping-intervals) |
