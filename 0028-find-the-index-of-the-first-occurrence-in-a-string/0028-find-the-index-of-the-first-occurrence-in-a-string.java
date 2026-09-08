@@ -3,25 +3,16 @@ class Solution {
         int m=h.length();
         int t=n.length();
         
-        int i=0;
-        int j=0;
-        while(i<=m-t){
-            while(i<=m-t && h.charAt(i)!=n.charAt(0)){
-                i++;
-            }
-
-            if(i<=m-t){
+        for(int i=0; i<=m-t; i++){
+            
+            if(h.charAt(i)==n.charAt(0)){
+                int j=0;
                 int start=i;
-                while(i<m && j<t){
-                    if(h.charAt(i)==n.charAt(j)){
-                        i++;
-                        j++;
-                    }
-                    else break;
+                while(j<t && h.charAt(start)==n.charAt(j)){
+                    start++;
+                    j++;
                 }
-                if(j==t) return start;
-                i=start+1;
-                j=0;
+                if(j==t) return i;
             }
         }
     
