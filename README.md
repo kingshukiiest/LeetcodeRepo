@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0132-palindrome-partitioning-ii) |
+| [0242-valid-anagram](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
