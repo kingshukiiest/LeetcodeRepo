@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1529-minimum-suffix-flips](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1529-minimum-suffix-flips) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
