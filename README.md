@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0841-keys-and-rooms) |
@@ -529,4 +531,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
