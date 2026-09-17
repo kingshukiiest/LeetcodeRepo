@@ -4,17 +4,17 @@ class Solution {
         int low=0;
         int high= n-1;
         int store=-1;
-        while(low<=high){
+        while(low<high){
             int mid= low+(high-low)/2;
             
             if(arr[mid]<arr[mid+1]){
                 low=mid+1;
             }
             else{
-                store=mid;
-                high=mid-1;
+                
+                high=mid;
             }
         }
-        return store;
+        return low;
     }
 }
