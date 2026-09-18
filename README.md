@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0647-palindromic-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0825-friends-of-appropriate-ages) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0825-friends-of-appropriate-ages) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1386-cinema-seat-allocation) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2183-count-array-pairs-divisible-by-k) |
