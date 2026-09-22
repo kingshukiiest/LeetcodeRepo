@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1406-stone-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1631-path-with-minimum-effort) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/0852-peak-index-in-a-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
