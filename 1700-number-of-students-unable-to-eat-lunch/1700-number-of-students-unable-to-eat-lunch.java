@@ -1,22 +1,17 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
         int n=students.length;
-        int zero=0, one=0;
-        for(int i=0; i< n; i++){
-            if(students[i]==0) zero++;
-            else one++;
-        }
+        
+        int [] count= new int[2];
         for(int i=0; i<n ; i++){
-            int val=sandwiches[i];
-            if(val==0){
-                if(zero==0) return n-i;
-                else zero--;
-            }
-            else {
-                if(one==0) return n-i;
-                else one--;
-            }
+            count[students[i]]++;
         }
-        return 0;
+        for(int i=0; i<n; i++){
+            if(count[sandwiches[i]]==0){
+                break;
+            }
+            count[sandwiches[i]]--;
+        }
+        return count[0]+count[1];
     }
 }
