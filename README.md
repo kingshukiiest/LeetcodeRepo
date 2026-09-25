@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1048-longest-string-chain) |
 | [1529-minimum-suffix-flips](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1529-minimum-suffix-flips) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2211-count-collisions-on-a-road) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kingshukiiest/LeetcodeRepo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
